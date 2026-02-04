@@ -6,5 +6,10 @@ Guia de comandos Gist
 Guia de comandos Maven
 * [Maven Guide](https://gist.github.com/letsdevapps/446f44bcb2d83009a074875c897f6232)
 
+## Utilidades
+
+Guia de comandos Cmatrix
+* [Cmatrix Guide](https://gist.github.com/letsdevapps/93c4e9ce2abf3136025ce99a4236a92e)
+
 Nvidia Driver Install
 * [Nvidia Driver Install](https://gist.github.com/letsdevapps/cfc3202f1db8b8654624b177bfd3efbd)
