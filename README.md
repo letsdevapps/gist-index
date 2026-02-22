@@ -9,6 +9,9 @@ Guia de comandos Gist
 Guia de comandos Github Client
 * [Github Client Guide](https://gist.github.com/letsdevapps/66d6e935ad51e1af7dddecefc11d9a68)
 
+Guia de comandos Kubernetes Minikube
+* [Kubernetes Minikube Guide](https://gist.github.com/letsdevapps/cf1fe55f8db660866b80bcba76f235fa)
+
 Guia de comandos Maven
 * [Maven Guide](https://gist.github.com/letsdevapps/446f44bcb2d83009a074875c897f6232)
 
