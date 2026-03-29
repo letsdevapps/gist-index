@@ -17,6 +17,9 @@ Guia de comandos Maven
 
 ## Utilidades
 
+Atalho - Desktop Entry - Hard Link - Symbolic Link
+* [Shortcut Guide](https://gist.github.com/letsdevapps/dbbdcbd2df7220e75de0edbf50b52b78)
+
 Guia de comandos Cmatrix
 * [Cmatrix Guide](https://gist.github.com/letsdevapps/93c4e9ce2abf3136025ce99a4236a92e)
 
